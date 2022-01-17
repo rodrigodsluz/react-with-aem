@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/rodrigo-luz-test/clientlibs"/>
+    <filter root="/apps/rodrigo-luz-test/components"/>
+    <filter root="/apps/rodrigo-luz-test/i18n"/>
+</workspaceFilter>

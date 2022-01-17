@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "rodrigo-luz-test/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}
